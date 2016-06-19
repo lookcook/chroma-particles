@@ -1,0 +1,8 @@
+main: com.lookcook.particles.ParticlesMain
+name: ChromaParticles
+version: 1.25
+commands:
+  particles: 
+    description: opens up the particles menu.
+  favoritecolour: 
+    description: check someone elses favorite colour.
